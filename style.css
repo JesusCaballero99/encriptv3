@@ -51,6 +51,7 @@ main{
     margin-left: 98px;
     margin-top: 28px;
     position: absolute;
+    text-align: center;
 }
 
 .mensaje:focus{
